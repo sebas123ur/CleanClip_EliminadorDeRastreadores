@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-**Última actualización:** Agosto de 2026
+**Última actualización:** octubre de 2026
 
 ¡Gracias por confiar en **CleanClip**! Tu privacidad, seguridad y tranquilidad son nuestra máxima prioridad. Esta política explica de forma clara y transparente cómo manejamos tu información (o mejor dicho, cómo no la manejamos).
 
