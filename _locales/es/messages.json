@@ -1,0 +1,54 @@
+{
+    "extensionName": {
+        "message": "CleanClip",
+        "description": "Nombre de la extensión"
+    },
+    "extensionDescription": {
+        "message": "Elimina automáticamente los parámetros de seguimiento y publicidad de las URLs y cópialas limpias al instante.",
+        "description": "Descripción de la extensión"
+    },
+    "extensionTitle": {
+        "message": "CleanClip",
+        "description": "Título de la extensión"
+    },
+    "cleanAndCopyButton": {
+        "message": "Limpiar y copiar",
+        "description": "Botón para limpiar la URL y copiarla"
+    },
+    "copyButton": {
+        "message": "Copiar enlace",
+        "description": "Solo copia el enlace"
+    },
+    "kofiLink": {
+        "message": "Si esta extensión te ha sido útil, apóyame.",
+        "description": "Enlace a la página de Ko-fi"
+    },
+    "hadTrackers": {
+        "message": "¡La URL de la pestaña está lista y limpia!",
+        "description": "Mensaje que confirma que la URL tenía rastreadores y fue limpiada"
+    },
+    "noTrackersFound": {
+        "message": "La URL de la pestaña ya estaba limpia.",
+        "description": "Mensaje cuando la URL no tenía rastreadores y ya estaba limpia"
+    },
+    "textBoxVerification": {
+        "message": "Por favor, pega o ingresa una URL primero",
+        "description": "Advertencia cuando el cuadro de texto está vacío"
+    },
+    "linkCopied": {
+        "message": "¡Enlace copiado al portapapeles!",
+        "description": "Mensaje de confirmación cuando se copia un enlace"
+    },
+    "urlCleaned": {
+        "message": "¡URL limpiada con éxito!",
+        "description": "Mensaje de confirmación cuando se limpia una URL"
+    },
+    "noTrackers": {
+        "message": "No se encontraron rastreadores en la URL.",
+        "description": "Mensaje cuando no se detectan parámetros de seguimiento"
+    },
+    "pasteValidLink": {
+        "message": "Ingresa o pega un enlace válido (ej. https://...)",
+        "description": "Mensaje de error para una entrada de URL no válida"
+    }
+}

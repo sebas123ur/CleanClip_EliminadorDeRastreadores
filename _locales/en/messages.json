@@ -1,0 +1,55 @@
+{
+    
+    "extensionName": {
+        "message": "CleanClip",
+        "description": "Name of the extension"
+    },
+    "extensionDescription": {
+        "message": "Automatically strip tracking and advertising parameters from URLs and copy clean links instantly.",
+        "description": "Description of the extension"
+    },
+    "extensionTitle": {
+        "message": "CleanClip",
+        "description": "Title of the extension"
+    },
+    "cleanAndCopyButton": {
+        "message": "Clean and Copy",
+        "description": "Button to clean the URL and copy it"
+    },
+    "copyButton": {
+        "message": "Copy link",
+        "description": "Only copies the link"
+    },
+    "kofiLink": {
+        "message": "If this extension has been useful to you, support me.",
+        "description": "Link to the Ko-fi page"
+    },
+    "hadTrackers": {
+        "message": "Tab URL is ready and clean!",
+        "description": "Message confirming the URL had trackers and was cleaned"
+    },
+    "noTrackersFound": {
+        "message": "The tab URL was already clean.",
+        "description": "Message when the URL had no trackers and was already clean"
+    },
+    "textBoxVerification": {
+        "message": "Please paste or enter a URL first",
+        "description": "Warning when the text box is empty"
+    },
+    "linkCopied": {
+        "message": "Link copied to clipboard!",
+        "description": "Confirmation message when a link is copied"
+    },
+    "urlCleaned": {
+        "message": "URL cleaned successfully!",
+        "description": "Confirmation message when a URL is cleaned"
+    },
+    "noTrackers": {
+        "message": "No trackers found in the URL.",
+        "description": "Message when no tracking parameters are detected"
+    },
+    "pasteValidLink": {
+        "message": "Please enter or paste a valid link (e.g., https://...)",
+        "description": "Error message for invalid URL input"
+    }
+}
