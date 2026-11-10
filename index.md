@@ -12,13 +12,10 @@ Nuestra extensión ha sido diseñada bajo el principio de privacidad absoluta. N
 ### 2. Funcionamiento 100% local
 Toda la limpieza de parámetros de rastreo (como `utm_`, `fbclid`, `gclid`) y la remoción de formato de texto se realizan de manera estrictamente local directamente en tu navegador. Ningún texto o enlace que copias es enviado, analizado o transmitido a servidores externos.
 
-### 3. Almacenamiento local de preferencias
-La extensión utiliza únicamente el almacenamiento interno de tu navegador (`chrome.storage`) para recordar tus preferencias de configuración (como activar o pausar la limpieza automática). Estos pequeños datos de configuración se quedan guardados exclusivamente en tu dispositivo y jamás salen de él ni se comparten con terceros.
-
-### 4. Cambios en esta política
+### 3. Cambios en esta política
 Cualquier actualización futura en nuestra política de privacidad será reflejada directamente en este documento. Sin embargo, nuestro compromiso fundamental con proteger tu privacidad y el control de tus datos se mantendrá siempre inalterable.
 
-### 5. ¿Tienes alguna duda o consulta?
+### 4. ¿Tienes alguna duda o consulta?
 Si deseas ponerte en contacto con nosotros, proponer mejoras o reportar algún inconveniente con la extensión, puedes hacerlo a través de nuestro repositorio oficial en GitHub o vía correo electrónico:
 
 * **GitHub:** [https://github.com/sebas123ur/cleanclip](https://github.com/sebas123ur/cleanclip)
